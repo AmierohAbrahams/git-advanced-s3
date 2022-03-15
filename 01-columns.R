@@ -95,3 +95,5 @@ car_mass <- mtcars %>%
 Adding some content to the script
 
 Adding content from master
+
+Adding second commit from master
